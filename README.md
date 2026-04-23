@@ -1,4 +1,4 @@
-# AI Study Assistant - Building AI course project
+# AI Study Assistant 
 
 AI Study Assistant
 Summary
