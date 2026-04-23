@@ -1,24 +1,22 @@
-# AI Study Assistant
-
-This is my Building AI course project.
+# AI Study Assistant - Building AI course project
 
 ## Summary
-This project is an AI-based study assistant that helps students plan their studies efficiently by analyzing their learning patterns and suggesting personalized study strategies.
+This is my Building AI course project. It is an AI-based study assistant that helps students improve productivity by analyzing their study habits and giving personalized recommendations.
 
 ## Background
-Many students struggle with time management and do not know what to study. This leads to stress and poor performance. I want to solve this problem using AI.
+Students often struggle with time management and inefficient study methods. This leads to stress and poor performance. I want to solve this using AI.
 
 ## How is it used?
-Students input their subjects and available time. The system suggests what to study and when.
+Students enter their subjects, weak areas, and available time. The AI suggests a study plan and priorities.
 
 ## Data sources and AI methods
 The system can use student performance data and apply machine learning and recommendation systems.
 
 ## Challenges
-The system depends on accurate data and may not always give perfect suggestions.
+The system depends on accurate data and may not always give perfect results.
 
 ## What next?
-This can be developed into a real app with more features like reminders and tracking.
+This can be developed into a real application with features like reminders and analytics.
 
 ## Acknowledgments
 Inspired by the Elements of AI course.
