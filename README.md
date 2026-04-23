@@ -1,47 +1,24 @@
-# AI Study Assistant 
+# AI Study Assistant
 
-AI Study Assistant
-Summary
+This is my Building AI course project.
 
-This is my Building AI course project. It is an AI-based assistant that helps students study smarter by analyzing their learning patterns and suggesting personalized study plans.
+## Summary
+This project is an AI-based study assistant that helps students plan their studies efficiently by analyzing their learning patterns and suggesting personalized study strategies.
 
-Background
+## Background
+Many students struggle with time management and do not know what to study. This leads to stress and poor performance. I want to solve this problem using AI.
 
-Many students struggle with time management and inefficient studying.
+## How is it used?
+Students input their subjects and available time. The system suggests what to study and when.
 
-Hard to know what to focus on
-No personalized guidance
-Leads to stress and low productivity
+## Data sources and AI methods
+The system can use student performance data and apply machine learning and recommendation systems.
 
-I faced this myself, so I want to solve it using AI.
+## Challenges
+The system depends on accurate data and may not always give perfect suggestions.
 
-How is it used?
+## What next?
+This can be developed into a real app with more features like reminders and tracking.
 
-Students input their subjects, time available, and weak topics.
-The AI suggests:
-
-Study schedule
-Priority topics
-Practice recommendations
-
-Used by students preparing for exams.
-
-Data sources and AI methods
-Study data (time spent, scores)
-Could use past student performance datasets
-
-AI methods:
-
-Machine learning (prediction)
-Recommendation systems
-Challenges
-Needs accurate data
-Privacy concerns
-Not 100% perfect predictions
-What next?
-Build a real app
-Add chatbot feature
-Integrate with apps like Notion or Google Calendar
-Acknowledgments
-
-Inspired by Elements of AI course.
+## Acknowledgments
+Inspired by the Elements of AI course.
